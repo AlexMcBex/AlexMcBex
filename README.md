@@ -1,12 +1,12 @@
-<div style="display: flex; justify-content: space-between">
-<div>
-
-# Alessio Belli 
-</div>
-<div>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alessio-belli/) 
-</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h1>Alessio Belli</h1>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/alessio-belli/">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
+    </a>
+  </div>
 </div>
 <!-- ![Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ViN2I2NTI4NjNkYmEwMTAxYmM2MzM0Y2UxODY2MmU4Yzk4NmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XIqCQx02E1U9W/giphy.gif) -->
 
@@ -37,12 +37,12 @@ const alex = {
 ```
 <!-- </div> -->
 
-### Skills :alien:
-#### Programming Languages :scroll:
+## Skills :alien:
+### Programming Languages :scroll:
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,)
-#### Frameworks :framed_picture:
+### Frameworks :framed_picture:
 ![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,bootstrap,tailwind,expressjs,django,postgres&)
-#### Tools :wrench:	
+### Tools :wrench:	
 ![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,github,aws,gcp,linux,vscode,figma,postman,netlify)
 <!-- <div style="display:flex "> -->
 
