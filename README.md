@@ -1,6 +1,6 @@
 # Alessio Belli
 <!-- ![Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ViN2I2NTI4NjNkYmEwMTAxYmM2MzM0Y2UxODY2MmU4Yzk4NmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XIqCQx02E1U9W/giphy.gif) -->
-### Software Developer 
+### Software Developer *Made in Italy*  :it:
 
 <!-- <div style="display:flex"> -->
 
