@@ -34,11 +34,11 @@ const alex = {
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,bootstrap,tailwind,expressjs,django,postgres&)](https://skillicons.dev)
 #### Tools :wrench:	
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,github,aws,gcp,linux,vscode,figma,postman,netlify)](https://skillicons.dev)
-<div style="display:flex ">
+<!-- <div style="display:flex "> -->
 
 ![Alex's best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmcbex&layout=compact&theme=tokyonight&langs_count=6)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMcBex&theme=tokyonight&show_icons=true)
-</div>
+<!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMcBex&theme=tokyonight&show_icons=true)
+</div> -->
 <!--
 You're not suppposed to read this, here's a cookie 🍪
 -->
