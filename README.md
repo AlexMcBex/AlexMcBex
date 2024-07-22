@@ -2,15 +2,22 @@
 <!-- ![Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ViN2I2NTI4NjNkYmEwMTAxYmM2MzM0Y2UxODY2MmU4Yzk4NmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XIqCQx02E1U9W/giphy.gif) -->
 ### A quick introduction...
 
-<div style="display:flex">
+<!-- <div style="display:flex"> -->
 
-<img src="./Main Profile Pic.png" style="border-radius: 100%; height: 12rem; margin:4rem">
+<!-- <img src="./Main Profile Pic.png" style="border-radius: 100%; height: 12rem; margin:4rem"> -->
 
 ```javascript
 const alex = {
     fullName: "Alessio Belli",
-    location:"Astoria, NY, 11103",
+    origin: 'Italy',
+    currentLocation: {
+        city: 'Astoria',
+        state: 'NY',
+        zip: 11103,
+        country: 'USA'
+    },
     title: ["full stack developer", "web developer", "software engineer"],
+    openToWork: true,
     currentlyWorkingOn: {
         project: "Mamma's Recipes",
         technologies: ["Django", "React.js", "AWS", "Tailwind"]
@@ -18,7 +25,7 @@ const alex = {
     hobbies: ["Reading", "Gym", "Writing", "Drawing"],
 }
 ```
-</div>
+<!-- </div> -->
 
 ### Skills
 #### Programming Languages
