@@ -1,6 +1,6 @@
 # Alessio Belli
 <!-- ![Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ViN2I2NTI4NjNkYmEwMTAxYmM2MzM0Y2UxODY2MmU4Yzk4NmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XIqCQx02E1U9W/giphy.gif) -->
-### Software Developer *Made in Italy* 
+### Software Developer *Made in Italy*  :computer:	
 
 <!-- <div style="display:flex"> -->
 
@@ -27,12 +27,12 @@ const alex = {
 ```
 <!-- </div> -->
 
-### Skills
-#### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,)](https://skillicons.dev)
-#### Frameworks 
+### Skills :alien:
+#### Programming Languages :scroll:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,)](https://skillicons.dev) 
+#### Frameworks :framed_picture:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,nextjs,bootstrap,tailwind,expressjs,django,postgres&)](https://skillicons.dev)
-#### Tools
+#### Tools :wrench:	
 [![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,github,aws,gcp,linux,vscode,figma,postman,netlify)](https://skillicons.dev)
 <div style="display:flex ">
 
