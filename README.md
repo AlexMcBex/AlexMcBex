@@ -28,10 +28,7 @@ const alex = {
     },
     title: ["full stack developer", "web developer", "software engineer"],
     openToWork: true,
-    currentlyWorkingOn: {
-        project: "Mamma's Recipes",
-        technologies: ["Django", "React.js", "AWS", "Tailwind"]
-    }
+    currentlyWorkingOn: { }
     hobbies: ["Reading", "Gym", "Writing", "Drawing"],
 }
 ```
