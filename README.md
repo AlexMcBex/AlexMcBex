@@ -14,7 +14,7 @@
 
 <!-- <div style="display:flex"> -->
 
-<!-- <img src="./Main Profile Pic.png" style="border-radius: 100%; height: 12rem; margin:4rem"> -->
+<img src="./Main Profile Pic.png" style="border-radius: 100%; height: 12rem; margin:4rem">
 
 ```javascript
 const alex = {
@@ -28,7 +28,9 @@ const alex = {
     },
     title: ["full stack developer", "web developer", "software engineer"],
     openToWork: true,
-    currentlyWorkingOn: { }
+    currentlyWorkingOn: { 
+      loading: true
+    }
     hobbies: ["Reading", "Gym", "Writing", "Drawing"],
 }
 ```
