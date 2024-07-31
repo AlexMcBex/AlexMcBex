@@ -14,7 +14,7 @@
 
 <div style="display:flex">
 <div>
-<img src="./Main Profile Pic.png" style="border-radius: 100%; height: 12rem; margin:4rem">
+<img src="./mainProfilePic.png" style="border-radius: 100%; height: 12rem; margin:4rem">
 </div>
 <div>
 
