@@ -3,7 +3,7 @@
   </div>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <a href="https://alexmcbex.github.io/portfolio" style="height: 1rem">
+    <a href="https://alexmcbex.github.io/portfolio" style="display: flex; flex-direction: column; align-items: center;">
 <img src="./mainProfilePic.png" style="border-radius: 100%; height: 4rem; margin:4rem" alt="Portfolio link">
 <span style="font-size: 80%;">Portfolio</span>
 </a>
