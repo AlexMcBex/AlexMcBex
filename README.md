@@ -2,15 +2,15 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <a href="https://alexmcbex.github.io/portfolio" >
-  <div style="display: flex; flex-direction: column; align-items: center; height: 4rem">
-<img src="./mainProfilePic.png" style="border-radius: 100%; ;" alt="Portfolio link">
+  <div style="display: flex; flex-direction: column; align-items: center; ">
+<img src="./mainProfilePic.png" style="border-radius: 100%; height: 4rem;" alt="Portfolio link">
 <span style="font-size: 80%;">Portfolio</span>
 </div>
 </a>
 
 <a href="https://www.linkedin.com/in/alessio-belli/" >
-<div style="display: flex; flex-direction: column; align-items: center; height: 4rem">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn link" style="">
+<div style="display: flex; flex-direction: column; align-items: center; ">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn link" style="height: 4rem">
       <span style="font-size: 80%;">LinkedIn</span>
 </div>
     </a>
