@@ -1,10 +1,13 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <h1>Alessio Belli</h1>
   </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
+    <a href="https://alexmcbex.github.io/portfolio" style="height: 1rem">
+<img src="./mainProfilePic.png" style="border-radius: 100%; height: 4rem; margin:4rem" alt="Portfolio link">
+</a>
     <a href="https://www.linkedin.com/in/alessio-belli/">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn link">
     </a>
   </div>
 </div>
@@ -14,7 +17,6 @@
 
 <div style="display:flex">
 <div>
-<img src="./mainProfilePic.png" style="border-radius: 100%; height: 12rem; margin:4rem">
 </div>
 <div>
 
