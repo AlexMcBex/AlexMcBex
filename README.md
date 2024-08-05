@@ -7,7 +7,7 @@
 <img src="./mainProfilePic.png" style="border-radius: 100%; height: 4rem; margin:4rem" alt="Portfolio link">
 <span style="font-size: 80%;">Portfolio</span>
 </a>
-    <a href="https://www.linkedin.com/in/alessio-belli/">
+    <a href="https://www.linkedin.com/in/alessio-belli/" style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn link" style="height: 4rem">
       <span style="font-size: 80%;">LinkedIn</span>
     </a>
