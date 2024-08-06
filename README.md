@@ -1,6 +1,6 @@
 # Alessio Belli
 
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 1rem;">
+<!-- <div style="display: flex; justify-content: space-around; align-items: center; gap: 1rem;"> -->
 
   <a href="https://alexmcbex.github.io/portfolio" style="text-decoration: none; color: inherit;">
     <div style="display: flex; flex-direction: column; align-items: center;">
