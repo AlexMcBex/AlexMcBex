@@ -3,19 +3,23 @@
 <!-- <div style="display: flex; justify-content: space-around; align-items: center; gap: 1rem;"> -->
 
   <a href="https://alexmcbex.github.io/portfolio" style="text-decoration: none; color: inherit;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="
+    /* display: flex; flex-direction: column; align-items: center; */
+    ">
       <img src="./mainProfilePic.png" style="border-radius: 100%; height: 4rem;" alt="Portfolio link">
       <!-- <span style="font-size: 80%;">Portfolio</span> -->
     </div>
   </a>
 
   <a href="https://www.linkedin.com/in/alessio-belli/" style="text-decoration: none; color: inherit;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="
+    /* display: flex; flex-direction: column; align-items: center; */
+    ">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn link" style="height: 4rem;">
       <!-- <span style="font-size: 80%;">LinkedIn</span> -->
     </div>
   </a>
-</div>
+<!-- </div> -->
 
 <!-- ![Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ViN2I2NTI4NjNkYmEwMTAxYmM2MzM0Y2UxODY2MmU4Yzk4NmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XIqCQx02E1U9W/giphy.gif) -->
 
