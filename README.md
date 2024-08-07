@@ -3,10 +3,10 @@
 <!-- <div style="display: flex; justify-content: space-around; align-items: center; gap: 1rem;"> -->
 
   <a href="https://alexmcbex.github.io/portfolio" style="text-decoration: none; color: inherit; margin: 1rem" target="_blank">
-      <img src="./mainProfilePic.png" style="border-radius: 100%; height: 4rem;" alt="Portfolio link">
+      <img src="./mainProfilePic.png" style="border-radius: 100%; height: 4rem;" alt="Portfolio link">   
   </a>
   <a href="https://www.linkedin.com/in/alessio-belli/" style="text-decoration: none; color: inherit; margin: 1rem" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn link" style="height: 4rem;">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn link" style="height: 4rem;">   
   </a>
   <a href="/Resume - Alessio Belli.pdf" style="text-decoration: none; color: inherit; margin: 1rem" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=103809&format=png&color=000000" alt="LinkedIn link" style="height: 4rem;">
