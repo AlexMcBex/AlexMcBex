@@ -17,11 +17,6 @@
 
 ## Full Stack Software Developer :computer:
 
-<div style="display:flex">
-<div>
-</div>
-<div>
-
 ```javascript
 const alex = {
     fullName: "Alessio Belli",
@@ -41,8 +36,6 @@ const alex = {
 }
 ```
 
-</div>
-</div>
 
 ## Skills :alien:
 
