@@ -27,10 +27,10 @@ const alex = {
     fullName: "Alessio Belli",
     origin: 'Italy',
     currentLocation: {
-        city: 'Astoria',
-        state: 'NY',
-        zip: 11103,
-        country: 'USA'
+      city: 'New York City',
+      state: 'NY',
+      zip: 11103,
+      country: 'USA'
     },
     title: ["full stack developer", "web developer", "software engineer"],
     openToWork: true,
