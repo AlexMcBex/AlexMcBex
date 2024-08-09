@@ -1,5 +1,8 @@
 # Alessio Belli
 
+### Full Stack Software Developer :computer:
+
+## Links :link:
 <!-- <div style="display: flex; justify-content: space-around; align-items: center; gap: 1rem;"> -->
 
   <a href="https://alexmcbex.github.io/portfolio" style="text-decoration: none; color: inherit; margin: 1rem" target="_blank">
@@ -15,7 +18,6 @@
 
 <!-- ![Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ViN2I2NTI4NjNkYmEwMTAxYmM2MzM0Y2UxODY2MmU4Yzk4NmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XIqCQx02E1U9W/giphy.gif) -->
 
-## Full Stack Software Developer :computer:
 
 ```javascript
 const alex = {
