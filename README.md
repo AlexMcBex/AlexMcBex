@@ -22,6 +22,7 @@
 
 
 ```javascript
+<Description>
 const alex = {
     fullName: "Alessio Belli",
     origin: 'Italy',
@@ -38,8 +39,9 @@ const alex = {
     }
     hobbies: ["Reading", "Gym", "Writing", "Drawing"],
 }
+</Description>
 ```
-
+ ---
 
 ## Skills :alien:
 
