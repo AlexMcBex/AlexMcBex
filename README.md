@@ -12,7 +12,7 @@
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn link" style="height: 4rem;">   
   </a>
   <a href="/Resume - Alessio Belli.pdf" style="text-decoration: none; color: inherit; margin: 1rem" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=103809&format=png&color=000000" alt="LinkedIn link" style="height: 4rem;">
+      <img src="https://img.icons8.com/?size=100&id=103809&format=png&color=000000" alt="resume link" style="height: 4rem;">
   </a>
 <!-- </div> -->
 
