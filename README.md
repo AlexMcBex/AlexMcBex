@@ -65,7 +65,7 @@ const alex = {
 
 ![Alex's best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmcbex&layout=compact&theme=tokyonight&langs_count=6)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMcBex&theme=tokyonight&show_icons=true)
+<!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMcBex&theme=tokyonight&show_icons=true) -->
 </div>
 <!--
 You're not suppposed to read this, here's a cookie 🍪
