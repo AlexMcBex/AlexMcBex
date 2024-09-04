@@ -59,14 +59,14 @@ const alex = {
 
 ![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,github,aws,gcp,linux,vscode,figma,postman,netlify)
 
-<!-- <div style="display:flex "> -->
 
 ## Stats :clipboard:
+<div style="display:flex ">
 
 ![Alex's best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmcbex&layout=compact&theme=tokyonight&langs_count=6)
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMcBex&theme=tokyonight&show_icons=true)
-<!-- </div> -->
+</div>
 <!--
 You're not suppposed to read this, here's a cookie 🍪
 -->
