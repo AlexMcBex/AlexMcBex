@@ -34,11 +34,6 @@ const alex = {
     },
     title: ["full stack developer", "web developer", "software engineer"],
     openToWork: true,
-    currentlyWorkingOn: {
-      name: "BoomerRoomers",
-      isATeamProject: true,
-      technology: ["Next.js", "Node.js", "MongoDB", "express", "AWS"]
-    }
     hobbies: ["Reading", "Gym", "Writing", "Drawing"],
 }
 </Description>
