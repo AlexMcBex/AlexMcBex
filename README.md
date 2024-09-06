@@ -4,7 +4,7 @@
 
 ## Links :link:
 <!-- <div style="display: flex; justify-content: space-around; align-items: center; gap: 1rem;"> -->
-
+<div style="text-decoration: none; padding: 1rem">
   <a href="https://alexmcbex.github.io/portfolio" style="text-decoration: none; color: inherit; margin: 1rem" target="_blank">
       <img src="./mainProfilePic.png" style="border-radius: 100%; height: 4rem;" alt="Portfolio link">   
   </a>
@@ -14,7 +14,7 @@
   <a href="/Resume - Alessio Belli.pdf" style="text-decoration: none; color: inherit; margin: 1rem" target="_blank">
       <img src="https://img.icons8.com/?size=100&id=103809&format=png&color=000000" alt="resume link" style="height: 4rem;">
   </a>
-<!-- </div> -->
+</div>
 
 <!-- ![Typing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ViN2I2NTI4NjNkYmEwMTAxYmM2MzM0Y2UxODY2MmU4Yzk4NmQ3ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XIqCQx02E1U9W/giphy.gif) -->
 
