@@ -23,11 +23,11 @@
 
 ```javascript
 <Description>
-const alex = {
+{{ const alex = {
     fullName: "Alessio Belli",
     origin: 'Italy',
     currentLocation: {
-      city: 'Queens',
+      city: 'Astoria',
       state: 'NY',
       zip: 11103,
       country: 'USA'
@@ -36,6 +36,7 @@ const alex = {
     openToWork: true,
     hobbies: ["Reading", "Gym", "Writing", "Drawing"],
 }
+}}
 </Description>
 ```
  ---
