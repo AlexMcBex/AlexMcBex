@@ -27,7 +27,7 @@
     fullName: "Alessio Belli",
     origin: 'Italy',
     currentLocation: {
-      city: 'Astoria',
+      city: 'New York',
       state: 'NY',
       zip: 11103,
       country: 'USA'
