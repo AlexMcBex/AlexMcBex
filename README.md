@@ -22,8 +22,7 @@
 
 
 ```javascript
-<Description>
-{{ const alex = {
+const aboutMe = {
     fullName: "Alessio Belli",
     origin: 'Italy',
     currentLocation: {
@@ -36,8 +35,7 @@
     openToWork: true,
     hobbies: ["Reading", "Gym", "Writing", "Drawing"],
 }
-}}
-</Description>
+
 ```
  ---
 
