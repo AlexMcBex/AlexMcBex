@@ -35,6 +35,7 @@ const aboutMe = {
     titles: ["full stack developer", "web developer", "software engineer"],
     openToWork: true,
     hobbies: ["Reading", "Gym", "Writing", "Drawing"],
+    currentlyReading: "The Hobbit"
 }
 
 ```
