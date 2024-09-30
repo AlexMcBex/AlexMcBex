@@ -24,6 +24,8 @@
 ```javascript
 const aboutMe = {
     fullName: "Alessio Belli",
+    email: "alessiobelli94@gmail.com",
+    mobile: "+1 (347)862-8200",
     origin: 'Italy',
     currentLocation: {
       city: 'New York',
