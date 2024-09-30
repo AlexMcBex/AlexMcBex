@@ -1,6 +1,6 @@
 # Alessio Belli  :alien:
 
-### Full Stack Software Developer :computer:
+### *Full Stack Software Developer* :computer:
 
 ## Links :link:
 <!-- <div style="display: flex; justify-content: space-around; align-items: center; gap: 1rem;"> -->
