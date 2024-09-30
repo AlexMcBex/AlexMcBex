@@ -1,4 +1,4 @@
-# Alessio Belli
+# Alessio Belli  :alien:
 
 ### Full Stack Software Developer :computer:
 
@@ -43,7 +43,7 @@ const aboutMe = {
 ```
  ---
 
-## Skills :alien:
+## Skills :vulcan_salute:
 
 ### Programming Languages :scroll:
 
