@@ -27,6 +27,7 @@ const aboutMe = {
     email: "alessiobelli94@gmail.com",
     mobile: "+1 (347)862-8200",
     origin: 'Italy',
+    age: 20,
     currentLocation: {
       city: 'New York',
       state: 'NY',
