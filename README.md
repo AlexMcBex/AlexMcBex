@@ -36,8 +36,8 @@ const aboutMe = {
     languages: ["English", "Italian", "a bit of Spanish"],
     titles: ["full stack developer", "web developer", "software engineer"],
     openToWork: true,
-    hobbies: ["Reading", "Gym", "Writing", "Drawing", "Movies"],
-    currentlyReading: "The Lord of the Rings"
+    hobbies: ["Saunas", "Reading", "Gym", "Writing", "Drawing", "Movies"],
+    currentlyReading: "Dune"
 }
 
 ```
