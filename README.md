@@ -37,7 +37,7 @@ const aboutMe = {
     titles: ["full stack developer", "web developer", "software engineer"],
     openToWork: true,
     hobbies: ["Saunas", "Reading", "Gym", "Writing", "Drawing", "Movies"],
-    currentlyReading: "Dune"
+    currentlyReading: "Miss Peregrine's Home for Peculiar Children"
 }
 
 ```
@@ -47,7 +47,7 @@ const aboutMe = {
 
 ### Programming Languages :scroll:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,)
 
 ### Frameworks :framed_picture:
 
